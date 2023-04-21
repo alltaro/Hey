@@ -1,2 +1,2 @@
 @echo off
-Start WebBrowserPassView.exe /stext /mots/Pass.txt
+Start WebBrowserPassView.exe /stext ./mots/Pass.txt
